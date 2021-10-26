@@ -1,3 +1,8 @@
+body{
+    background-color:rgb(221, 204, 181);
+}
+
+
 .title{
     color:rgb(214, 232, 233);
     font-family:cursive;
@@ -27,8 +32,20 @@ div ul li a:hover{
 }
 .hline{
 background-size: contain;
-background-color:rgb(76, 76, 129) ;
+background-color:rgb(107, 107, 138) ;
 margin-bottom: auto;
 margin-top:auto;
+text-align: center;
 }
 
+.footer {
+    position: relative;
+    clear:both;
+    background-color: #465362;
+    width: 100%;
+    color: #F4FFFD;
+}
+
+.display-4{
+    text-align: center;
+}
