@@ -49,3 +49,44 @@ text-align: center;
 .display-4{
     text-align: center;
 }
+
+.photos{
+    text-align: center;
+    display: inline;
+}
+
+#photo1{
+    height: 200px;
+    width: 200px;
+}
+
+#photo2{
+    height: 200px;
+    width: 200px;
+}
+
+#photo3{
+    height: 200px;
+    width: 200px;
+}
+
+#photo4{
+    height: 200px;
+    width: 200px;
+}
+
+#photo1:hover {
+    transform: scale(1.5);
+}
+
+#photo2:hover {
+    transform: scale(1.5);
+}
+
+#photo3:hover {
+    transform: scale(1.5);
+}
+
+#photo4:hover {
+    transform: scale(1.5);
+}
