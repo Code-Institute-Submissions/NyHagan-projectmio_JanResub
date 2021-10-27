@@ -124,3 +124,8 @@ border-radius: 15px;
     text-align: center;
     text-decoration: none;
     font-size: 18px;
+  }
+
+  .entry{
+      border-radius: 10px;
+  }
