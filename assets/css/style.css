@@ -59,8 +59,20 @@ font-family: cursive;
     border-radius: 15px;
 }
 
-.display-4{
+#aboutbtn{
+    background-color: rgb(142, 154, 175);
+    color: rgb(254, 200, 154);
+    font-family: cursive;
+}
+
+#aboutbtn:hover{
+    transform: scale(1.2);
+    background-color:silver;
+}
+
+.slogan, .lead{
     text-align: center;
+    font-family: fantasy;
 }
 
 .photos{
@@ -126,7 +138,7 @@ font-family: cursive;
   }
 
   .button {
-    background-color: #04AA6D;
+    background-color:rgb(203, 192, 211);
     border: none;
     color: white;
     padding: 10px 25px;
