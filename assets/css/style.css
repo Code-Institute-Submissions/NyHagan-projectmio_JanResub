@@ -76,6 +76,9 @@ font-family: cursive;
     font-family: fantasy;
 }
 
+
+
+
 .photos{
     text-align:center;
     display: inline;
@@ -85,8 +88,8 @@ font-family: cursive;
 }
 
 #photo1, #photo2, #photo3, #photo4{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
    border-radius: 100px;
 }
 
@@ -94,6 +97,9 @@ font-family: cursive;
     transform: scale(1.5);
     animation-duration: 1s;
    animation-name: zoomin;
+   border-radius: 15px;
+   height: 200px;
+   width: 200px;
 }
 
 
@@ -107,7 +113,7 @@ font-family: cursive;
     to{
         width: 200px ;
         height: 200px ;
-    border-radius: 100px;
+    border-radius: 15px;
     }
 }
 
@@ -158,6 +164,7 @@ font-family: cursive;
     .tiers {
       width: 100%;
     }
+    
 }
 
 .bottom {
