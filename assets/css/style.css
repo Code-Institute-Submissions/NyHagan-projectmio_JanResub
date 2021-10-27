@@ -29,6 +29,7 @@ div ul li a:hover{
 .top{
     background-color: rgb(72, 105, 105);
     margin-bottom: auto;
+    display: inline-block;
 }
 .hline{
 background-size: contain;
@@ -55,9 +56,10 @@ text-align: center;
     display: inline;
 }
 
-#photo1{
+#photo1, #photo2, #photo3, #photo4{
     height: 200px;
     width: 200px;
+   
 }
 
 #photo2{
@@ -76,7 +78,7 @@ text-align: center;
 }
 
 #photo1:hover {
-    transform: scale(1.5);
+    transform: scale(1.1);
 }
 
 #photo2:hover {
@@ -90,3 +92,4 @@ text-align: center;
 #photo4:hover {
     transform: scale(1.5);
 }
+
