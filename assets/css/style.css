@@ -87,7 +87,7 @@ font-family: cursive;
 #photo1, #photo2, #photo3, #photo4{
     height: 200px;
     width: 200px;
-   border-radius: 15px;
+   border-radius: 100px;
 }
 
 #photo1:hover, #photo2:hover, #photo3:hover, #photo4:hover {
@@ -101,12 +101,13 @@ font-family: cursive;
     from{
     width: 100px;
     height: 100px;
+    border-radius: 100px;
 }
 
     to{
         width: 200px ;
         height: 200px ;
-
+    border-radius: 100px;
     }
 }
 
