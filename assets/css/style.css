@@ -40,6 +40,10 @@ div ul li a:hover{
     font-family:cursive;
 }
 
+.header{
+    text-align: center;
+}
+
 .hline{
 background-size: contain;
 background-color:rgb(142, 154, 175) ;
@@ -122,11 +126,17 @@ font-family: cursive;
     box-sizing: border-box;
   }
 .tiers {
-    float: left;
+    float:left;
     width: 33.3%;
     padding: 8px;
     background-color: azure;
     border-radius: 15px;
+    text-align: center;
+    padding-right: 50px;
+  }
+
+  .price{
+  text-align: center;
   }
 
   .price:hover {
@@ -137,6 +147,8 @@ font-family: cursive;
     background-color: rgb(203, 192, 211);
     color:black;
     font-size: 25px;
+    margin:auto;
+
   }
 
   .price li {
