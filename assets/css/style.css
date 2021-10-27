@@ -2,9 +2,13 @@ body{
     background-color:rgb(221, 204, 181);
 }
 
+.jumbotron{
+    border-radius: 15px;
+    background-color: aliceblue;
+}
 
 .title{
-    color:rgb(214, 232, 233);
+    color:rgb(68, 189, 196);
     font-family:cursive;
     background-color: cadetblue;
     padding-bottom: 20px;
@@ -61,7 +65,7 @@ border-radius: 15px;
 #photo1, #photo2, #photo3, #photo4{
     height: 200px;
     width: 200px;
-   
+   border-radius: 15px;
 }
 
 #photo1:hover, #photo2:hover, #photo3:hover, #photo4:hover {
@@ -83,3 +87,40 @@ border-radius: 15px;
 
     }
 }
+
+
+* {
+    box-sizing: border-box;
+  }
+.tiers {
+    float: left;
+    width: 33.3%;
+    padding: 8px;
+    background-color: azure;
+    border-radius: 15px;
+  }
+
+  .price:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+  }
+
+  .price .header {
+    background-color: rgb(55, 106, 119);
+    color: rgb(133, 34, 133);
+    font-size: 25px;
+  }
+
+  .price li {
+    border-bottom: 1px solid #eee;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
