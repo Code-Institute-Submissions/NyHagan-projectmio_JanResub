@@ -1,6 +1,7 @@
 body{
     background-color:rgb(248, 237, 235);
 }
+/* comment */
 
 .jumbotron{
     border-radius: 15px;
@@ -77,7 +78,7 @@ font-family: cursive;
 
 .slogan, .lead{
     text-align: center;
-    font-family: fantasy;
+    font-family: fantasy, sans-serif; 
 }
 
 
