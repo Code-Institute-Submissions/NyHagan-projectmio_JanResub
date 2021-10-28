@@ -78,7 +78,8 @@ font-family: cursive;
 
 .slogan, .lead{
     text-align: center;
-    font-family: fantasy, sans-serif; 
+    font-family:papyrus,monospace;
+    color: rgb(26, 85, 88);
 }
 
 
