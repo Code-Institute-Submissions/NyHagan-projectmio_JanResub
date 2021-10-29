@@ -1,31 +1,55 @@
 
+
 # Projectmio
 
 Projectmio is a codeinstitute milestone project built primarily to highlight and bring value to the fashion industry, worth billions. It is a simple four page website that lists multiple products and packages that can be purchased.
 
 
-## Acknowledgements
+## User Experience
 
- - [Code Insitute](https://codeinstitute.net)
- - [Learning People]( https://www.learningpeople.com/uk/)
- - [Team Mio](https://www.instagram.com/itsqueenda/?hl=en)
+This site was made with the incorporation of bootstrap, allowing it to be mobile first and very responsive.
 
+### User Stories
 
-
-## Authors
-
-- [N.Y Hagan](https://github.com/NyHagan/projectmio)
+* The purpose of this site is to draw the attention of new customers to purchase makeup packages offered by Mio Glow.
+* It starts off with for main navigation items deliberately vertically stacked for aestethic purposes.
+* Mio Glow has a high rating on Google
 
 
+
+## Colour scheme and Design
+
+I used multiple variations of lavender and pink, as well as grey and gold.
+## font
+
+the main fonts used are cursive and monospace
+## Features
+
+* changes depending on the size of the screen
+* photos and buttons dynamically expand and contract as well as change shape when hovered on with a mouse
+
+## Languages used
+
+Html and Css
+## Frameworks and Libraries Used
+
+* bootstrap
+* font awesome (minimal use)
+* github
+* gitpod
+
+## Testing
+
+Code was tested multiple times and bugs squashed
+## Known Bugs
+
+There are currently no bugs that have been identified
 ## Deployment
 
-To deploy this project run
-
-```bash
-  python3 -m http.server
-```
-
-and then a notification will show about port 8000 being open. lick on open preview to open a new window which will show the website in gitpod
+* log in to Github
+* In the settings of the repository, scroll down to github pages
+* click on "master" as your source
+* a link will be generated, taking you to the site.
 ## Run Locally
 
 Clone the project
@@ -55,6 +79,7 @@ Click on open preview/open browser
 ```
 ![App Screenshot](assets/images/scr4.png)
 
+
 ## Support
 
 For support, email nanaohagan@gmail.com or join our code institute Slack channel.
@@ -67,16 +92,35 @@ Contributions are very welcome!
 
 
 
-## 🚀 About Me
+## Authors
+
+- [N.Y Hagan](https://github.com/NyHagan/projectmio)
+
+
+## About Me
 I'm a full stack developer in training...
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/NyHagan)
+https://github.com/NyHagan
 
 ## Roadmap
 
 - Additional browser support
 
 - Add more integrations
+
+
+## Media
+
+All media was grabbed from Google
+
+
+
+## Acknowledgements
+
+ - [Code Insitute](https://codeinstitute.net)
+ - [Learning People]( https://www.learningpeople.com/uk/)
+ - [Team Mio](https://www.instagram.com/itsqueenda/?hl=en)
+
 
