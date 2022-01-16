@@ -102,12 +102,11 @@ Html and Css
 A program called Responsinator was used in order to make sure that the site was responsive and worked well accross multiple screen sizes. No major issues were found.
 
 
+
+
 ## Known Bugs
 
 There are currently no bugs that have been identified
-
-
-
 
 ## Deployment
 
