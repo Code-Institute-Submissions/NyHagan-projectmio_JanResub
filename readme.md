@@ -153,7 +153,8 @@ For support, email nanaohagan@gmail.com or join our code institute Slack channel
 
 Contributions are very welcome!
 
-
+## Feedback
+Please [email me](nanaohagan@gmail.com) if you have any feedback!
 
 
 ## Authors
