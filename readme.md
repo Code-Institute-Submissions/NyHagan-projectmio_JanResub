@@ -1,8 +1,10 @@
 
 
-# Projectmio
+# ProjectMio
 
-Projectmio is a codeinstitute milestone project built primarily to highlight and bring value to the fashion industry, worth billions. It is a simple four page website that lists multiple products and packages that can be purchased.
+Projectmio is a project built primarily to highlight and bring value to the fashion industry, worth billions. It is a simple four page website that lists multiple products and packages that can be purchased.
+ProjectMio is a fashion website primarily designed ot make it easy to book makeup sessions at the click of a button. 
+
 
 
 ## User Experience
@@ -44,6 +46,10 @@ Code was tested multiple times and bugs squashed
 ## Known Bugs
 
 There are currently no bugs that have been identified
+
+
+
+
 ## Deployment
 
 * log in to Github
