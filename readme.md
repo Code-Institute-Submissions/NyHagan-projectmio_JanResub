@@ -9,7 +9,17 @@ ProjectMio is a fashion website primarily designed ot make it easy to book makeu
 
 ## User Experience
 
-This site was made with the incorporation of bootstrap, allowing it to be mobile first and very responsive.
+### Goals
+
+### User Goals
+- As a user, I want to be able to easily navigate to the product offered.
+- As a user, I want to see a nice looking and responsive site.
+- As a user, I want to able to make sense of the website.
+
+### Owner Goals
+- As the owner, I want my site to be easily used.
+- As the owner, I want as the site's pupose to be easily understood.
+- As the owner, I want the user to be able to navigate without issues.
 
 ### User Stories
 
