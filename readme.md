@@ -78,7 +78,18 @@ Html and Css
 
 ## Testing
 
-Code was tested multiple times and bugs squashed
+### Validators 
+- The two validators used were W3C Markup validator and W3C CSS validator
+
+
+### W3C Markup validator
+- No errors were detected
+
+### W3C CSS validator
+- No errors were detected
+
+
+
 ## Known Bugs
 
 There are currently no bugs that have been identified
