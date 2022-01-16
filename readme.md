@@ -45,9 +45,10 @@ I went with light and feminine orented colours to evoke a sense of welcome, thes
 | Blue,silver |rgb(142, 154, 175)  |
 
 
-## font
+## Font
 
-the main fonts used are cursive and monospace
+The two main fonts used were cursive and monospace. Cursive and monospance work well hand in hand to achieve a style that best fits the fashion industry, with writing that looks welcoming to the user.
+
 ## Features
 
 * changes depending on the size of the screen
