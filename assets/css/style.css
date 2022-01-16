@@ -1,13 +1,14 @@
 body{
     background-color:rgb(248, 237, 235);
 }
-/* comment */
+/* for the body,decided a more neutral color style was needed */
 
 .jumbotron{
     border-radius: 15px;
     background-color: aliceblue;
 }
 
+/* cursive gives the site a more glamorous look */
 .title{
     color:rgb(254, 200, 154);
     font-family:cursive;
@@ -27,6 +28,7 @@ div ul li{
     
 }
 
+/* I wanted the text to turn into uppercase to enhance visibility */
 div ul li a:hover{
     text-transform: uppercase;
  color: rgb(20, 19, 19);
@@ -71,6 +73,7 @@ font-family: cursive;
     font-family: cursive;
 }
 
+/* to show the user wht they were hovering on */
 #aboutbtn:hover{
     transform: scale(1.2);
     background-color:silver;
@@ -99,6 +102,7 @@ font-family: cursive;
    border-radius: 100px;
 }
 
+/* this transforms the photos from circles to squares and enlarges them */
 #photo1:hover, #photo2:hover, #photo3:hover, #photo4:hover {
     transform: scale(1.5);
     animation-duration: 1s;
@@ -108,7 +112,7 @@ font-family: cursive;
    width: 200px;
 }
 
-
+/* this is the animation that changes the photos size and shape */
 @keyframes zoomin {
     from{
     width: 100px;
@@ -127,6 +131,7 @@ font-family: cursive;
 * {
     box-sizing: border-box;
   }
+  
 .tiers {
     float:left;
     width: 33.3%;
@@ -169,11 +174,13 @@ font-family: cursive;
     font-size: 18px;
   }
 
+  /* I wanted the entry boxes to have rounded edges */
   .entry{
       border-radius: 10px;
       padding: 10px;
   }
 
+  /* to ensure the css still works when te screen size changes */
   @media only screen and (max-width: 600px) {
     .tiers {
       width: 100%;
