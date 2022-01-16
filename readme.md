@@ -100,7 +100,7 @@ Html and Css
 
 ## Testing responsiveness on multiple screen sizes
 A program called Responsinator was used in order to make sure that the site was responsive and worked well accross multiple screen sizes. No major issues were found.
-
+![App Screenshot](assets/images/screenshot.png)
 
 
 
