@@ -88,6 +88,18 @@ Html and Css
 ### W3C CSS validator
 - No errors were detected
 
+## Testing against my user goals
+### As a user, I want to be able to easily navigate to the product offered.
+- Clear and easy to find navigation bar that allows the user to find the 'Book a session page'
+
+### As a user, I want to see a nice looking and responsive site.
+- Site is quick and responsive and no major issues were found.
+
+### As a user, I want to able to make sense of the website.
+- Clean and easy to understand writing prevents any confusion.
+
+## Testing responsiveness on multiple screen sizes
+A program called Responsinator was used in order to make sure that the site was responsive and worked well accross multiple screen sizes. No major issues were found.
 
 
 ## Known Bugs
