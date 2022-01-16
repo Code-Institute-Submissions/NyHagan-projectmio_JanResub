@@ -51,8 +51,10 @@ The two main fonts used were cursive and monospace. Cursive and monospance work 
 
 ## Features
 
-* changes depending on the size of the screen
-* photos and buttons dynamically expand and contract as well as change shape when hovered on with a mouse
+- changes depending on the size of the screen
+- photos and buttons dynamically expand and contract as well as change shape when hovered on with a mouse.
+- aesthetically pleasing.
+- cross platform
 
 ## Languages used
 
