@@ -1,5 +1,5 @@
 
-
+![App Screenshot](assets/images/screenshot2.png)
 # ProjectMio
 
 Projectmio is a project built primarily to highlight and bring value to the fashion industry, worth billions. It is a simple four page website that lists multiple products and packages that can be purchased.
@@ -8,7 +8,7 @@ ProjectMio is a fashion website primarily designed ot make it easy to book makeu
 
 
 ## User Experience
-
+![App Screenshot](assets/images/screenshot3.png)
 ### Goals
 
 ### User Goals
