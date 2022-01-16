@@ -59,12 +59,22 @@ The two main fonts used were cursive and monospace. Cursive and monospance work 
 ## Languages used
 
 Html and Css
-## Frameworks and Libraries Used
+## Technologies Used
 
-* bootstrap
-* font awesome (minimal use)
-* github
-* gitpod
+- ### Html
+- ### CSS
+
+## Libraries/Frameworks used
+
+- Bootstrap : this helped me to create a mobile first oriented webpage
+
+## Programs used
+
+- Git : Allowed me to push my changes to the repository
+
+- Github : Stores my repository
+
+- Gitpod : the editor where I write my code.
 
 ## Testing
 
