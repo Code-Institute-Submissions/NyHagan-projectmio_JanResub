@@ -29,9 +29,22 @@ ProjectMio is a fashion website primarily designed ot make it easy to book makeu
 
 
 
-## Colour scheme and Design
+## Design
 
-I used multiple variations of lavender and pink, as well as grey and gold.
+### Colour scheme
+
+I went with light and feminine orented colours to evoke a sense of welcome, these colours are well established in regards to the fashion industry, with an emphasis on colours similar or derived from shades of pink, and also included colours that complement pink.
+
+| Color             | rgb                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| white, pink | rgb(248, 237, 235) |
+| Alice Blue | rgb(240,248,255) |
+| cream, orange| rgb(254, 200, 154)|
+| Black |rgb(0, 0, 0)  |
+| Black,dark red |rgb(20, 19, 19)  |
+| Blue,silver |rgb(142, 154, 175)  |
+
+
 ## font
 
 the main fonts used are cursive and monospace
